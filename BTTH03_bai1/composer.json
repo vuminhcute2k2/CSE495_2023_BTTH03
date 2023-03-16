@@ -1,0 +1,12 @@
+{
+    "name": "acer/btth03",
+    "autoload": {
+        "psr-4": {
+            "Acer\\Btth03\\": "src/"
+        }
+    },
+    "require": {
+        "twig/twig": "^3.5",
+        "phpmailer/phpmailer": "^6.8"
+    }
+}
